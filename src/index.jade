@@ -1,0 +1,21 @@
+- var page = { title:'Home' }
+include /includes/head.jade
+body
+  include /includes/header.jade
+  .container
+    .row
+      .col-sm-12.blog-header
+        .blog-header-text
+          h1 Blog blog
+          h4 For lorem ispum, by lorem ipsum
+    .row
+      .col-sm-12.blog-banner
+        .blog-banner-image(style='background-image: url(posts/1/images/main.jpg);')
+          a.blog-banner-text(href='/html/posts/1/')
+            include:md posts/1/md/banner.md
+      .col-sm-12.blog-banner
+        .blog-banner-image(style='background-image: url(posts/1/images/main.jpg);')
+          a.blog-banner-text(href='/html/posts/1/')
+            include:md posts/1/md/banner.md
+  script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js')
+  script(src='/js/bootstrap.min.js')

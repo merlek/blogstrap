@@ -1,0 +1,129 @@
+//
+// Variables
+// --------------------------------------------------
+@import "default-variables.less";
+
+//== Scaffolding ==============================================================
+
+// Links
+
+@text-color:                    @gray-darker;
+
+@link-color:                    @text-color;
+@link-hover-color:              @link-color;
+
+@link-underline-color:          rgba(0,0,0,.1);
+@link-underline-hover-color:    @text-color;
+@link-hover-decoration:         none;
+
+@link-inverse-underline-color:          rgba(255,255,255,.15);
+@link-inverse-underline-hover-color:    #fff;
+
+//== Colors ===================================================================
+
+.color(@color; @color-name;) {
+  .bg-variant(@color);
+  color: #fff;
+  padding: 10px;
+  &:before {
+      content: '@{color-name}: @{color}';
+  }
+}
+
+.body-bg { .color(@body-bg, 'body-bg'); }
+
+.gray-darker { .color(@gray-darker, 'gray-darker'); }
+.gray-dark { .color(@gray-dark, 'gray-dark'); }
+.gray { .color(@gray, 'gray'); }
+.gray-light { .color(@gray-light, 'gray-light'); }
+.gray-lighter { .color(@gray-lighter, 'gray-lighter'); }
+
+.brand-primary { .color(@brand-primary, 'brand-primary'); }
+.brand-success { .color(@brand-success, 'brand-success'); }
+.brand-info { .color(@brand-info, 'brand-info'); }
+.brand-warning { .color(@brand-warning, 'brand-warning'); }
+.brand-danger { .color(@brand-danger, 'brand-danger'); }
+
+@brand-primary:          #005FA1;
+ 
+@gray-darker:            #24211C;
+@gray-dark:              #474036;
+@gray:                   #857E74;
+@gray-light:             #B0A9A0;
+@gray-lighter:           #EDEAE6;
+ 
+//== Typography ===============================================================
+
+@font-family-sans-serif:  "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+@headings-font-weight: 400;
+
+//@font-size-base: 20px;
+
+//== Components ===============================================================
+
+//== Tables ===================================================================
+
+//== Buttons ==================================================================
+
+//== Forms ====================================================================
+
+//== Navbar ===================================================================
+
+@navbar-default-bg: transparent; //rgba(255,255,255,0.95);
+@navbar-default-border: transparent;
+@navbar-default-link-active-bg: rgba(34,34,34,0.3);
+@navbar-default-link-active-color: #fff;
+
+@navbar-inverse-bg: @brand-primary;
+
+@navbar-inverse-color: #fff;
+@navbar-inverse-link-color: #fff;
+@navbar-inverse-brand-color: #fff;
+
+@navbar-inverse-link-hover-color: darken(#fff, 6.5%);
+@navbar-inverse-brand-hover-color: darken(#fff, 10.5%);
+
+@navbar-inverse-link-active-bg: rgba(34,34,34,0.3);
+@navbar-inverse-link-active-color: #fff;
+
+//== Pagination ===============================================================
+
+@pagination-color:                     @text-color;
+@pagination-hover-color:               @text-color;
+
+//== Pager ====================================================================
+
+@pager-color:                 @text-color;
+@btn-link-disabled-color:        @gray-light;
+
+//== Jumbotron ================================================================
+
+//== Form states and alerts ===================================================
+
+//== Tooltips =================================================================
+
+//== Popovers =================================================================
+
+//== Labels ===================================================================
+
+//== Modals ===================================================================
+
+//== Progress bars ============================================================
+
+//== List group ===============================================================
+
+//== Panels ===================================================================
+
+//== Thumbnails ===============================================================
+
+//== Wells ====================================================================
+
+//== Badges ===================================================================
+
+@badge-bg:                    @brand-primary;
+
+@badge-active-color:          @brand-primary;
+
+// == Breadcrumbs ==============================================================
+
+// == Type =====================================================================

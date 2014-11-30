@@ -1,0 +1,19 @@
+- var page = { title:'Home' }
+include /includes/head.jade
+body
+  - var header_class = 'navbar-overlay'
+  include /includes/header.jade
+  .container-fluid.fill
+    .row
+      .col-sm-12.blog-header.inverse
+        .blog-header-image(style='background-image: url(images/main.jpg);')
+          .blog-header-text
+            include:md md/cover.md
+  .container
+    .row
+      .col-sm-12.blog-post
+        include:md md/post.md
+
+  script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js')
+  script(src='/js/bootstrap.min.js')
+include /includes/footer.jade
