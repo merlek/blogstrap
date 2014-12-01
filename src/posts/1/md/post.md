@@ -1,50 +1,60 @@
-This blog post shows a few different types of content that's supported and styled with Bootstrap. Basic typography, images, and code are all supported.
+This sickness is not unto death (John 11:4)
+===========================================
 
-* * *
+_The Sickness Unto Death_ is a piece by Soren Kierkegaard. He opens his introduction with this
+verse. The context is the death of Lazarus. Lazarus is a friend of Jesus' who passes away.
+Christ comes later and restores him to life, but before coming, he makes the comment that the
+sickness that Lazarus has is not unto death. We know that Lazarus dies, so what does it mean
+that the sickness was not unto death? If death itself is not _the sickness unto death_, then is
+there such a sickness? According to Kierkegaard, the answer is yes. What is it? If you plan on
+reading the book, take a moment to read the introduction. It may be a little dense, but if you
+can follow it is absolutely beautiful.
 
-Cum sociis natoque penatibus et magnis[dis parturient montes](#), nascetur ridiculus mus.
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere
-consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+After the introduction, we find that the sickness unto death is _despair_. Despair is worse
+than death, and is the end of man. Kierkegaard goes on to explain what is the self and what is
+despair.
 
-> Curabitur blandit tempus porttitor. **Nullam quis risus eget urna mollis** ornare vel eu leo.
-> Nullam id dolor id nibh ultricies vehicula ut id elit.
+The self.
+---------
 
-Etiam porta _sem malesuada magna_ mollis euismod. Cras mattis consectetur purus sit amet
-fermentum. Aenean lacinia bibendum nulla sed consectetur.
+> A human being is spirit. But what is spirit? Spirit is the self. But what is the self? The
+> self is a relation that relates itself to itself or is the relation's relating itself to
+> itself in the relation; the self is not the relation but is the relation's relating itself to
+> itself. A human being is a synthesis of the infinite and finite, the temporal and the
+> eternal, of freedom and necessity, in short a synthesis... The relation between the psychical
+> and the physical is a relation. If, however, the relation relates itself to itself, this
+> relation... is a self.
 
-## Heading
+The self is two parts:
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non
-commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus,
-porta ac consectetur ac, vestibulum at eros.
+1. A relation that relates itself to itself
+2. In relating itself to itself, relates itself to another
 
-![Post image][img1]
-A kitten
+###A relation that relates itself to itself
 
-### Sub-heading
+The self is the relationship between the body and the soul and, as [Bellinger's Summary][] puts
+it, "the self is conscious of itself (is aware of itself, can talk to itself, etc.)".
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+![the self][]
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod.
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+###In relating itself to itself, relates itself to another
 
-### Sub-heading
+God established the self, so the self relates to God.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean
-lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce
-dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit
-amet risus.
+![self and God][]
 
-*   Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-*   Donec id elit non mi porta gravida at eget metus.
-*   Nulla vitae elit libero, a pharetra augue.
+Despair.
+--------
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+Despair is _mis-relation_, a break in a relationship. There are three forms of despair.
 
-1.  Vestibulum id ligula porta felis euismod semper.
-2.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3.  Maecenas sed diam eget risus varius blandit sit amet non magna.
+1. Ignorance of having a self (more so an eternal self).
+2. Not willing to be oneself (a mis-relation in the self).
+3. Willing to be oneself (a mis-relation with God).
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est 
+All despair can be traced to the third form, a break in relation to God. As such, despair is
+chiefly a mis-relation with God.
 
-[img1]: images/sub.jpg "Optional title"
+[Bellinger's Summary]: http://lib.tcu.edu/staff/bellinger/60023/summary_of_SicknessUD.htm
+[the self]: images/self1.png
+[self and God]: images/self-and-god1.png

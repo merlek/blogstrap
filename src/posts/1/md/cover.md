@@ -1,5 +1,5 @@
-# Sample
+# The Sickness Unto Death
 
-#### For lorem ispum, by lorem ipsum
+#### A look at the essay by Kierkegaard
 
-January 1, 2014 by [Merle](#)
+May 29, 2014
