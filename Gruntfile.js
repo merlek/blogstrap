@@ -289,7 +289,7 @@ module.exports = function (grunt) {
           expand: true,
           cwd: 'src',
           src: '**/images/**',
-          dest: 'dist/html'
+          dest: 'dist'
         }]
       }
     },
@@ -331,7 +331,7 @@ module.exports = function (grunt) {
           expand: true,
           cwd: 'src',
           src: ['**/*.jade','!includes/**/*.jade'],
-          dest: 'dist/html',
+          dest: 'dist',
           ext: '.html'
         }]
       }
